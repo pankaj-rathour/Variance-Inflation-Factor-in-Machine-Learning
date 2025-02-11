@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-data = pd.read_csv("/content/retailsales.csv")  # Replace with your file path
+data = pd.read_csv("paste your csv file path here")  # Replace with your file path
 data.head()
 
 data.info()
